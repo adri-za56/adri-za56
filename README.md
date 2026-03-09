@@ -1,23 +1,38 @@
-# Hi, I'm Adriza 👋
+#### Hi, I'm Adriza 👋
 
-💻 Aspiring Software Engineer  
-🌐 Full Stack Development  
-🧠 Data Structures & Algorithms  
+💻 **Aspiring Software Engineer**
+🌱 Currently building skills in **Full Stack Development and Data Structures & Algorithms**
 
-## Currently Learning
-- Full Stack Development
-- Data Structures & Algorithms
-- Open Source Contribution
+---
 
-## Tech Stack
-- C 
-- Python
-- DSA in Java 
-- HTML
-- CSS
-- JavaScript (learning)
+##### 🚀 Currently Learning
 
-## Goals
-- Build impactful web applications
-- Contribute to open source
-- Prepare for product-based tech roles
+* Full Stack Web Development
+* Data Structures & Algorithms (Java)
+* Contributing to Open Source
+* Building practical projects
+
+---
+
+##### 🛠 Tech Stack
+
+* **Languages:** C, Python, Java
+* **Web Development:** HTML, CSS, JavaScript *(currently learning)*
+* **Core Skills:** Data Structures & Algorithms
+
+---
+
+##### 🎯 Goals
+
+* Build impactful and scalable web applications
+* Contribute to open-source projects
+* Strengthen problem-solving skills through DSA
+* Prepare for **product-based software engineering roles**
+
+---
+
+##### 📂 What I'm Working On
+
+* Solving DSA problems and maintaining my **DSA-LeetCode repository**
+* Building web development projects
+* Continuously improving my programming skills
