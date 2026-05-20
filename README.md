@@ -36,3 +36,4 @@
 * Solving DSA problems and maintaining my **DSA-LeetCode repository**
 * Building web development projects
 * Continuously improving my programming skills
+* Working as a contrubutor in GSSoC'26  
